@@ -158,10 +158,3 @@ class ThreeDimensionalLinkedList:
     # 15
     def clear(self):
         self.head = None
-
-
-
-
-
-
-کلاس لیست پیوندی سه بعدی را بنویسید با ۱۵ متد
